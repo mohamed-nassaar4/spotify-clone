@@ -1,0 +1,242 @@
+
+.er 
+{
+   
+    height: 70px;
+  
+    fill: white;
+    background-color:black; 
+    
+}
+.tit{
+    display:inline;
+    width:20px;
+     margin-left:5px; 
+    
+    padding-left:80px;
+    color:aliceblue;
+  
+  
+}
+
+.nav
+{
+    list-style-type: none;
+    display:flex;
+    justify-content: end; 
+    position:relative;
+    bottom: 30px;
+    right:20px;
+}
+li{
+   
+    margin:1px 5px;
+    color:white;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;;
+
+}
+.pic
+{
+    height:40px;
+    width:40px;
+   position:relative;
+   top:13px;
+   left:40px;    
+}
+
+.mainpho{
+    display:inline-block;
+}
+.bg1{
+    background: url(https://www.scdn.co/i/free/bubbles-dktp.svg);
+    background-repeat: no-repeat;  
+    background-color: rgb(176, 35, 194);
+    background-position: center -160px;
+    height:500px;
+    
+}
+.uipic{
+    height:100px;
+    width:50px;
+    display:inline;
+    position:relative;
+    left:400px;
+}  
+.phn{
+    height:296px;
+    width:200px;
+    background-color: white;
+    position:relative;
+    top:190px;
+}
+.img1 {
+    height:260px;
+    width:190px; 
+    position:absolute;
+    z-index:1;
+    left:5px;
+    bottom:-30px;
+  
+}
+.txtw{
+    color:white;
+    letter-spacing:2px; 
+    font-size: 40px;
+    max-width: 450px;
+    display:inline-block;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-bottom:38px; 
+    margin-top:4px;
+    
+     /* position:relative;
+    bottom:30px;    
+    right:30px;  */
+     /* display:flex;
+    align-items: center;   */
+}
+.butt1
+{
+    background-color: white;
+    width:170px;
+    height:50px;
+    border-radius: 30px;
+     /* margin-left: 170px; */
+    position:relative;
+    left:200px;
+    bottom:50px;
+    font-weight: 600;
+
+}
+.top{
+    display:flex;
+    justify-content: center;
+    font-size:24px;
+    line-height: 30px;
+    font-family: Helvetica,Arial,sans-serif;
+}
+.box{
+   
+    height: 500px;
+    padding-left: 170px;
+}
+.img2{
+    height:150px;
+    width:180px;
+}
+p{
+    /* display:inline-block; */
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 15px;
+}
+ h3{
+    /* display:inline-block; */
+    font-size: 16px; 
+    margin-left: 15px;
+} 
+
+.fst1,.fst2,.fst3,.lst4{
+    width:200px;
+    display:inline-block;
+    margin:0px;
+    padding:30px;
+   
+}
+.third{
+    
+    height:400px;
+    text-align: center;
+  background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+}
+
+.th1{
+   
+    font-size: 45px;
+    font-weight: 50px;
+    color: white;
+    font-family:Helvetica,Arial,sans-serif;
+    margin-top:160px;
+}
+.th2{
+  
+    font-size: 45px;
+    font-weight: 50px;
+    color: white;
+    font-family:Helvetica,Arial,sans-serif;
+    margin-top: 8px;
+   
+}
+.tc1{
+  
+    height:200px;
+    border:1px solid initial;
+    padding-top: 10px;;
+}
+.tc2{
+  
+    height: 200px;
+    border:1px solid initial;
+   
+    margin-bottom: 70px;
+}
+.box4{
+   
+    height:500px;
+  
+}
+.int{
+    height:500px;
+    display:inline-block;
+    width:1000px;
+    margin-left:157px;
+}
+.qtxt{
+    font-size:40px; 
+    font-weight: 900px;
+    text-align: center;
+    font-family: Helvetica,Arial,sans-serif;
+    
+}
+#fr1{
+    height:21px;
+    width:21px;
+    padding-left: 980px;
+    position:relative;
+    bottom:40px;
+
+}
+h2{
+    display:inline-block;
+    padding-left: 0px;
+    font-size: 20px;
+    
+}
+.five{
+    height:400px;
+    background: url(https://www.scdn.co/i/free/lets-play.svg), linear-gradient(-155deg, rgb(108, 14, 224) 55%, rgb(240, 55, 166) 115%) rgb(108, 14, 224);;
+    background-repeat: no-repeat ;
+    background-position: left -10px bottom -160px;
+    /* background-color:  rgb(128, 10, 232) */
+   
+}
+.txtply{
+    color:white;
+    position:relative;
+    left:450px;
+    top:110px;
+    font-size: 50px;
+    line-height:18px;
+    font-family: Helvetica,Arial,sans-serif;;
+}
+.butt2{
+    background-color: white;
+    width:170px;
+    height:50px;
+    border-radius: 30px;
+    position:relative;
+    left: 550px;
+    top: 120px;
+    font-weight: 600;
+    
+}
+
